@@ -8,6 +8,10 @@ Chatbot for Intent Recognition
 ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 
+![Alt text](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}" />. 
+
 ## Disclaimer
 
 I hold no liability for what you do with this bot or what happens to you by using this bot.
